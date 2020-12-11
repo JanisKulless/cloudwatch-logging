@@ -1,5 +1,4 @@
-# Logging with fluentd
-# works when cluster is deployed
+# Logging with fluentd - works when cluster is deployed
 
 1) Clone or create deploylogging.yaml file
 2) Edit file 6th line, change to your cluster region (eu-west-1 - Ireland by default)
